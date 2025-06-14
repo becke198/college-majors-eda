@@ -24,4 +24,4 @@ View the interactive dashboard here:
 [College Majors & Outcomes Dashboard (Tableau)](https://public.tableau.com/shared/BHHDRDJNP?:display_count=n&:origin=viz_share_link)
 
 ## Screenshots
-![Screenshot of Tableau](Screenshot 2025-06-14 175027.png)
+![Screenshot of Tableau](Screenshot_2025-06-14_75027.png)
